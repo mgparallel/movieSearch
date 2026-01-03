@@ -135,7 +135,7 @@ async function triggerSearch() {
         }
 
         else {
-            alert('movie already addedd!')
+            alert('Already in your watchlist!')
         }
     })
     
